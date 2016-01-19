@@ -21,7 +21,7 @@ Repository with educational files while working on online book by learn.javascri
 ```
 ##### confirm 
 * выводит сообщение и ждёт, пока пользователь нажмёт «OK» или «CANCEL» и возвращает true/false.
-* 
+
 
 ##### Логические операторы
 || запинается на «правде»,
