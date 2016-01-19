@@ -36,7 +36,7 @@ Repository with educational files while working on online book by learn.javascri
 
 
 #### Преобразование типов для примитивов
-* + перед строкой преобразовывает ее в чило
+* + перед строкой преобразовывает ее в число
 ```javascript
   var a = +"123"; // 123
 ```
