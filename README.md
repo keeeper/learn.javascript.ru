@@ -40,3 +40,12 @@ Repository with educational files while working on online book by learn.javascri
 ```javascript
   var a = +"123"; // 123
 ```
+
+#### Циклы
+* Директива continue прекращает выполнение текущей итерации цикла. Цикл ниже использует continue, чтобы не выводить чётные значения:
+```javascript
+for (var i = 0; i < 10; i++) {
+  if (i % 2 == 0) continue;
+  alert(i);
+}
+```
