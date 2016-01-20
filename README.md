@@ -77,3 +77,11 @@ function sayHi() {
 var func = sayHi;   
 func(); // Привет   
 ```
+
+* функция – это всего лишь разновидность значения переменной
+```javascript
+var sayHi = function(person) {
+  alert( "Привет, " + person );
+};
+sayHi('Вася');
+```
